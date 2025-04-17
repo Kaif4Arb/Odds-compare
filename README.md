@@ -1,2 +1,3 @@
-# Odds-compare
-Mobile football odds comparison tool
+# Odds Compare
+
+This is a simple mobile-friendly React app for comparing odds from Mostbet, Parimatch, and 1xBet.
